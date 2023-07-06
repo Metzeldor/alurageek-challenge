@@ -2,7 +2,7 @@
 @import '../css/components/header.css';
 @import '../css/components/footer.css';
 
-/*===================== FORM ========= */
+/*=== FORM ===*/
 .login {
   width: 275px;
   margin: 0 auto;
@@ -27,7 +27,7 @@
   padding: 0.75rem 2.125rem;
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 1000px) {
   .login {
     width: 30vw;

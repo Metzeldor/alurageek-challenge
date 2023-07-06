@@ -3,7 +3,7 @@
 @import '../css/components/products.css';
 @import '../css/components/footer.css';
 
-/*===================== PRODUCTS GLOBAL ========= */
+/*=== PRODUCTS GLOBAL ===*/
 .product__image {
   width: 100vw;
   height: 192px;
@@ -33,7 +33,7 @@
   padding: 1rem 0;
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 650px) {
   .product {
     display: grid;

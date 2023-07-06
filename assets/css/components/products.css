@@ -1,4 +1,4 @@
-/*===================== PRODUCTS SECTION ========= */
+/*=== PRODUCTS SECTION ===*/
 .products__title {
   font-weight: 700;
 }
@@ -33,7 +33,7 @@
   font: var(--font-14700);
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 650px) {
   .card__link {
     font-size: 1rem;

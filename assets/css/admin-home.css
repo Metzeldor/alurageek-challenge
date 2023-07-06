@@ -2,7 +2,7 @@
 @import '../css/components/header.css';
 @import '../css/components/footer.css';
 
-/*===================== ALL PRODUCTS ========= */
+/*===ALL PRODUCTS===*/
 .products {
   padding: 2rem;
 }
@@ -55,7 +55,7 @@
     font-weight: 700;
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 650px) {
   .products__header {
     display: flex;

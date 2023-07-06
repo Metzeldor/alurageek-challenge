@@ -1,4 +1,4 @@
-/*===================== FOOTER CONTACT ========= */
+/*=== FOOTER CONTACT ===*/
 .contact {
   background-color: var(--blue-100);
 }
@@ -41,7 +41,7 @@
   margin-top: 0.5rem;
 }
 
-/*===================== FOOTER CREDITS ========= */
+/*=== FOOTER CREDITS ===*/
 .credits {
   text-align: center;
   padding: 2rem 0;
@@ -50,7 +50,7 @@
   font-weight: 500;
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 650px) {
   .contact {
     display: grid;

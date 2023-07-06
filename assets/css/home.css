@@ -3,7 +3,7 @@
 @import '../css/components/products.css';
 @import '../css/components/footer.css';
 
-/*===================== BANNER ========= */
+/*=== BANNER ===*/
 html {
   scroll-behavior: smooth;
 }
@@ -45,7 +45,7 @@ html {
   padding: 0.75rem 1rem;
 }
 
-/*===================== PRODUCTS ========= */
+/*=== PRODUCTOS ===*/
 .products__header {
   display: flex;
   align-items: center;
@@ -64,7 +64,7 @@ html {
   font: var(--font-14700);
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE MOBIL ===*/
 @media (min-width: 650px) {
   .banner__content {
     gap: 1rem;
@@ -78,7 +78,7 @@ html {
   .banner__description {
     font-size: 1.375rem;
   }
-  /*=================================== */
+ /*=== RESPONSIVE TABLET ===*/
   .products__link,
   .products__link i {
     font-size: 1rem;

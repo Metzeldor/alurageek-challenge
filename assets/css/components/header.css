@@ -1,4 +1,4 @@
-/*===================== HEADER ========= */
+/*=== HEADER ===*/
 .header__upper {
   display: flex;
   align-items: center;
@@ -80,7 +80,7 @@
   font-size: 1.5rem;
 }
 
-/*===================== RESPONSIVE ========= */
+/*=== RESPONSIVE ===*/
 @media (min-width: 650px) {
   .container {
     padding: 2rem;
