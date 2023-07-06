@@ -145,6 +145,6 @@ header .header__login {
     flex-grow: 1;
   }
   .add-image__button::after {
-    content: 'Procure no seu computador';
+    content: 'Busca en tu computadora';
   }
 }
