@@ -1,4 +1,4 @@
-import { openCloseSearchBox } from "../open-close-searchbox.js";
+import { openCloseSearchBox } from "./open-close-searchbox.js";
 
 openCloseSearchBox()
 
