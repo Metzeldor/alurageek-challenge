@@ -36,4 +36,3 @@ El proyecto consta de los siguientes elementos:
 - [Documentación de CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Documentación de JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-¡Esperamos que disfrutes explorando y navegando por el e-commerce de AluraGeek! Si tienes alguna pregunta o comentario, no dudes en contactarnos.
